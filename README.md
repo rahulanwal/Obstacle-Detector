@@ -12,3 +12,5 @@ As part of my specific contribution, I focused on debugging the code and optimiz
 To complement our project, my teammate created a 3D model of the device housing using Solidworks, a popular CAD software. This allowed us to visualize and design a user-friendly enclosure for our obstacle detector. The 3D model helped us ensure that the components fit properly and that the device was ergonomically designed, further enhancing its practicality and usability.
 
 Overall, our project demonstrated the successful integration of hardware and software skills. By leveraging Tinkercad, Solidworks, and our collective expertise, we developed an obstacle detection system with audio feedback, inclusive features, and a visually appealing 3D model.
+
+Youtube Link: https://www.youtube.com/watch?v=X8ujS-sRL1U
